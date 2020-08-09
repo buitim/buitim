@@ -23,16 +23,21 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have had many hobbies ranging from digital photography to DJ-ing to music production. I also consider myself a professional napper 🛌
 
-<a href="#">
-    <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true&theme=nord" />
-</a>
-<a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true&theme=nord" />
-</a>
+<div width="100%">
+    <a href="#">
+        <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true&theme=nord" />
+    </a>
+    <a href="#">
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true&theme=nord" />
+    </a>
+</div>
 
-<h3>What I'm listening to 🎵</h3>
 
-<a href="#">
-    <img align="left" src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" width="100%" height="64" alt="Now Playing">
-</a>
+<div>
+    <h3>What I'm listening to 🎵</h3>
+    <a href="#">
+        <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
+    </a>
+</div>
+
 
