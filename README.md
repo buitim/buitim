@@ -46,12 +46,12 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 <a href="#">
     <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
 </a>
-
+<!-- 
 <div style="float:left;clear:left">
     <h3>What I'm listening to 🎵</h3>
     <a href="#">
         <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
     </a>
-</div>
+</div> -->
 
 
