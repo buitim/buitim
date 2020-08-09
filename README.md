@@ -13,11 +13,12 @@
 <br />
 <br />
 
-<img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true" />
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true" />
-
+<div>
+    <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true" />
+</div>
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true" />
+</div>
 
 <!--
 **buitim/buitim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
