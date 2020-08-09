@@ -24,10 +24,10 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 - ⚡ Fun fact: I have had many hobbies ranging from digital photography to DJ-ing to music production. I also consider myself a professional napper 🛌
 
 <div>
-    <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true" />
+    <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true&theme=nord" />
 </div>
 <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true&theme=nord" />
 </div>
 
 <br>
