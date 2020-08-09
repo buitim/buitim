@@ -1,10 +1,10 @@
 # Hi there! My name is Timothy! 👋
 
-<a href="https://kutt.it/1VgLvq"  target="_blank">
+<a href="https://kutt.it/1VgLvq" target="_blank">
   <img align="left" alt=LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://kutt.it/Lsw8iB"  target="_blank">
+<a href="https://kutt.it/Lsw8iB" target="_blank">
   <img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
