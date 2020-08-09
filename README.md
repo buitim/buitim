@@ -1,4 +1,4 @@
-### Hi there! My name is Timothy! 👋
+# Hi there! My name is Timothy! 👋
 
 <a href="https://kutt.it/1VgLvq">
   <img align="left" alt=LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -10,8 +10,16 @@
 
 ![](https://komarev.com/ghpvc/?username=buitim&style=flat-square)
 
-<br />
-<br />
+---
+
+- 🔭 I’m currently interning at AWS as a Professional Services Consultant
+- 🌱 I’m currently learning more React.JS and am interested in learning Flutter to make apps in my free time.
+- 👯 I’m looking to collaborate on literally anything. Working with others is a great time and I'd love to build something cool!
+- 🤔 I’m looking for help with learning Flutter and Swift.
+- 💬 Ask me about Any of my programming projects or if you just want to have a chat!
+- 📫 How to reach me: LinkedIn or here on GitHub. Email available upon request.
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I have had many hobbies ranging from digital photography to DJ-ing to music production. I also consider myself a professional napper 🛌
 
 <div>
     <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true" />
