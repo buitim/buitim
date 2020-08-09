@@ -23,7 +23,7 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have had many hobbies ranging from digital photography to DJ-ing to music production. I also consider myself a professional napper 🛌
 
-<div width="100%">
+<div style="float:left;">
     <a href="#">
         <img align="left" width="285px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buitim&count_private=true&show_icons=true&theme=nord" />
     </a>
@@ -33,7 +33,7 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 </div>
 
 
-<div>
+<div style="float:left;">
     <h3>What I'm listening to 🎵</h3>
     <a href="#">
         <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
