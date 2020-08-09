@@ -30,10 +30,9 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true&theme=nord" />
 </a>
 
-### What I'm listening to
+<h3>What I'm listening to 🎵</h3>
 
 <a href="#">
-    <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
+    <img align="left" src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
-<br>
