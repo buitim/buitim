@@ -10,6 +10,12 @@
 
 ![](https://komarev.com/ghpvc/?username=buitim&style=flat-square)
 
+### What I'm listening to 🎵
+
+<a href="#">
+    <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
+</a>
+
 ---
 
 Hey all! My name is Timothy Bui. I am currently a student at Oregon State University studying Computer Science. As of the time of writing this, I am also a Professional Services Consultant intern at Amazon Web Services. I love to talk to people and make people laugh as much as possible while working towards building cool things. Some facts about me are below:
@@ -40,18 +46,3 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 <br />
 <br />
 <br />
-
-### What I'm listening to 🎵
-
-<a href="#">
-    <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
-</a>
-<!-- 
-<div style="float:left;clear:left">
-    <h3>What I'm listening to 🎵</h3>
-    <a href="#">
-        <img src="https://now-playing-profile-git-master.buitim.vercel.app/now-playing" height="64" alt="Now Playing">
-    </a>
-</div> -->
-
-
