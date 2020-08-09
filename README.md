@@ -12,6 +12,8 @@
 
 ---
 
+Hey all! My name is Timothy Bui. I am currently a student at Oregon State University studying Computer Science. As of the time of writing this, I am also a Professional Services Consultant intern at Amazon Web Services. I love to talk to people and make people laugh as much as possible while working towards building cool things. Some facts about me are below:
+
 - 🔭 I’m currently interning at AWS as a Professional Services Consultant
 - 🌱 I’m currently learning more React.JS and am interested in learning Flutter to make apps in my free time.
 - 👯 I’m looking to collaborate on literally anything. Working with others is a great time and I'd love to build something cool!
@@ -28,17 +30,4 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=buitim&count_private=true&show_icons=true" />
 </div>
 
-<!--
-**buitim/buitim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
