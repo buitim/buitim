@@ -25,7 +25,7 @@ Hey all! My name is Timothy Bui. I am currently a student at Oregon State Univer
 - 👯 I’m looking to collaborate on literally anything. Working with others is a great time and I'd love to build something cool!
 - 🤔 I’m looking for help with learning Flutter and Swift.
 - 💬 Ask me about any of my programming projects or if you just want to have a chat!
-- 📫 How to reach me: LinkedIn or here on GitHub. Email available upon request.
+- 📫 How to reach me: [LinkedIn](https://kutt.it/1VgLvq) or here on GitHub. Email available upon request.
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have had many hobbies ranging from digital photography to DJ-ing to music production. I also consider myself a professional napper 🛌
 
